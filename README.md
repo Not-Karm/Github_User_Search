@@ -14,7 +14,7 @@ Github Profile Search is a simple web application that fetches and displays impo
 
 1. Clone the repository:
 
-`git clone https://github.com/Not-Karm/Github_User_Search`
+`git clone https://github.com/Not-Karm/Github_User_Search.git`
 
 2. Open `index.html` in your web browser.
 
